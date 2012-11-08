@@ -1,0 +1,4 @@
+cherrypy==3.2.2
+jinja2==2.6
+routes==1.13
+tvdb_api==1.8.1
